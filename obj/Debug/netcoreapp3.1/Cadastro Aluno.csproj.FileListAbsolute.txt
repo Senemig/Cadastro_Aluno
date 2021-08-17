@@ -1,0 +1,13 @@
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\bin\Debug\netcoreapp3.1\Cadastro Aluno.exe
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\bin\Debug\netcoreapp3.1\Cadastro Aluno.deps.json
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\bin\Debug\netcoreapp3.1\Cadastro Aluno.runtimeconfig.json
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\bin\Debug\netcoreapp3.1\Cadastro Aluno.runtimeconfig.dev.json
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\bin\Debug\netcoreapp3.1\Cadastro Aluno.dll
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\bin\Debug\netcoreapp3.1\Cadastro Aluno.pdb
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\obj\Debug\netcoreapp3.1\Cadastro Aluno.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\obj\Debug\netcoreapp3.1\Cadastro Aluno.AssemblyInfoInputs.cache
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\obj\Debug\netcoreapp3.1\Cadastro Aluno.AssemblyInfo.cs
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\obj\Debug\netcoreapp3.1\Cadastro Aluno.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\obj\Debug\netcoreapp3.1\Cadastro Aluno.dll
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\obj\Debug\netcoreapp3.1\Cadastro Aluno.pdb
+C:\Users\ferna\Desktop\SENAC\Cadastro Aluno\obj\Debug\netcoreapp3.1\Cadastro Aluno.genruntimeconfig.cache
